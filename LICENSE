@@ -1,0 +1,13 @@
+Data (oneroom-torihiki-kakaku-2026.csv) and README:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution / 出典表記:
+株式会社煌海プロパティ「投資用ワンルーム取引価格データ2026」（国土交通省 不動産情報ライブラリを加工）
+https://koumi-p.com/oneroom-torihiki-kakaku-2026.html
+
+Source data: Ministry of Land, Infrastructure, Transport and Tourism (MLIT),
+Real Estate Information Library (https://www.reinfolib.mlit.go.jp/), processed by Koumi Property Co., Ltd.
+This dataset is not an official MLIT publication.
+
+Code (aggregate.py): MIT License, Copyright (c) 2026 Koumi Property Co., Ltd.
